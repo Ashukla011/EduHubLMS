@@ -1,10 +1,12 @@
+
 import './App.css'
+import Signup from './Pages/Signup'
 
 function App() {
-
+ 
   return (
     <>
-      <h1>EduHub LMS </h1>
+     <Signup/>
     </>
   )
 }
